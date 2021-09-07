@@ -1,0 +1,21 @@
+2021-09-07 13:29:09,597 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:30:07,212 django.utils.autoreload INFO     E:\int_task\task\task\settings.py changed, reloading.
+2021-09-07 13:30:08,080 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:30:52,129 django.utils.autoreload INFO     E:\int_task\task\task\settings.py changed, reloading.
+2021-09-07 13:30:52,129 asyncio      DEBUG    Using proactor: IocpProactor
+2021-09-07 13:30:52,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:31:35,021 django.utils.autoreload INFO     E:\int_task\task\task\settings.py changed, reloading.
+2021-09-07 13:31:35,021 asyncio      DEBUG    Using proactor: IocpProactor
+2021-09-07 13:31:35,740 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:31:46,964 django       INFO     cat registered successfully
+2021-09-07 13:31:50,785 django       INFO     error while registering a cat
+2021-09-07 13:31:50,786 django.request WARNING  Bad Request: /add/
+2021-09-07 13:33:34,462 django       INFO     data updated successfully
+2021-09-07 13:33:49,591 django       INFO     data updated successfully
+2021-09-07 13:33:53,891 django       INFO     Sorry something went wrong!
+2021-09-07 13:33:53,892 django.request WARNING  Bad Request: /cats/edit/3/
+2021-09-07 13:34:19,347 django       INFO     cat removed successfully
+2021-09-07 13:37:44,065 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:40:27,751 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:40:52,203 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-09-07 13:41:21,721 django       INFO     cat removed successfully
